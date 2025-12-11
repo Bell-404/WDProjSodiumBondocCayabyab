@@ -24,6 +24,11 @@ img{
     padding-top:50px;
 }
 
+.rightbox{
+     padding-right: 600px;
+}
+
+
 h2{
     float:right;
     padding-right: 100px;
@@ -40,7 +45,7 @@ span {
     text-align: center;
     display: inline-flex;
   background-color: lavender;
-   width: 400px; 
+   width: 300px; 
   height: 300px; /* Example height */
 margin-left: 1300px;
   overflow: auto;
