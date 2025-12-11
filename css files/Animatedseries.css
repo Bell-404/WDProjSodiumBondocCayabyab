@@ -18,10 +18,11 @@ ul li a:hover {
     background-color: #111;
 }
 
-img{
+img {
     float:right;
     padding-right: 1000px;
     padding-top:50px;
+    position:fixed;
 }
 
 .rightbox{
@@ -39,6 +40,7 @@ p{
     float:right;
     padding-right: 100px;
     padding-top:50px;
+    position:fixed;
 }
 
 span { 
@@ -49,6 +51,14 @@ span {
   height: 300px; /* Example height */
 margin-left: 1300px;
   overflow: auto;
-  position:static;
+  position:fixed;
     
+}
+
+span p {
+    position:fixed;
+}
+
+div {
+    float:left
 }
