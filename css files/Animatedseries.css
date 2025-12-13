@@ -23,3 +23,18 @@ ul li a:hover {
     float:right;
 }
 
+aside{
+    width:15%;
+    background-color: lavender;
+text-align:center;
+height:fit-content;
+float:left;
+margin-top:15px;
+
+}
+
+img{
+    float:right;
+    padding-top: 50px;
+    margin-right: 150px;
+}
