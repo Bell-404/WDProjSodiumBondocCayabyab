@@ -1,0 +1,103 @@
+.Musicheader {
+    font-size: 60px;
+    margin-left: 250px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.NamesAudrey {
+    font-size: 40px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+
+}
+
+.NamesBell {
+    font-size: 40px;
+    margin-left: 375px;
+    margin-bottom: 0px;
+    margin-top: 70px;
+
+}
+
+/* Epic the Musical Section */
+
+.MusicTitle1 {
+    font-size: 30px;
+    margin-left: 250px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.MusicInfo1 {
+    margin-left: 250px;
+    display: flex;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+}
+
+.MusicInfo1 p{
+    margin-right: 75px;
+    font-size: 20px;
+}
+
+.MusicInfo1 div img {
+    margin-right: 80px;
+    width: 250px;
+    height: auto;
+}
+
+/* Music Sections on the left */
+
+
+
+/* Music Sections on the right */
+.MusicTitleRight {
+    font-size: 30px;
+    margin-left: 375px;
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+.MusicInfoRight {
+    margin-left: 375px;
+    display: flex;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+}
+.MusicInfoRight p{
+    margin-right: 75px;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.MusicInfoRight div img {
+    margin-right: 80px;
+    width: 250px;
+    height: auto;
+}
+
+/* Music Sections on the left */
+.MusicTitleLeft {
+    font-size: 30px;
+    margin-left: 375px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.MusicInfoLeft {
+    margin-left: 375px;
+    display: flex;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+}
+
+.MusicInfoLeft p{
+    margin-right: 75px;
+    font-size: 20px;
+}
+
+.MusicInfoLeft div img {
+    margin-right: 80px;
+    width: 250px;
+    height: auto;
+}
