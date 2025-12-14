@@ -33,7 +33,8 @@ div{
 <link rel="stylesheet" type="text/css" href="css files/WebsiteBase.css">
          <link rel="stylesheet" type="text/css" href="css files/WebsiteHeader.css">
          <link rel="stylesheet" type="text/css" href="css files/AboutPage.css">
-        <title>Minigame</title></head>
+         <link rel="stylesheet" type="text/css" href="css files/SideBar.css">
+        <title>Duorites</title></head>
 </head>
 
 
@@ -41,18 +42,25 @@ div{
     <body>
 <nav style = "background-color: rgb(16, 27, 39); text-align: right; padding-bottom: 15px; padding-top: 15px;">
     <ul>
-<li> <a href = "Q2 PROJECT PROPOSAL  BY  BONDOC AND CAYABAYB.html">  Home Page </a> </li>
-<li> <a href = "animatedseries.html"> Animated Series  </a> </li>
-<li> <a href = "books.html">  Books </a> </li>
-<li> <a href = "music.html">  Music </a> </li>
-<li> <a href = "AboutPage.html">  About Us </a></li>
-<li> <a href = "ContactsPage.html">  Contact </a> </li>
-<li> <a href = "Minigame.html"> Minigame </a> </li>
+     <li><a href="Minigame.html">🎮 Minigames</a></li>
+                <li><a href="AboutPage.html">📝 About Us</a></li>
+                <li><a href="ContactsPage.html">📮 Contacts</a></li>
     </ul>
 </nav>
+
+     <!-- Side Bar -->
+                <div class="Sidebar">
+                    <h2 style = "padding-left:20px;">MEDIA</h2>
+                    <a href="AnimatedSeries.html">📺 Animated Series</a><br>
+                    <a href="Books.html">📚 Books</a><br>
+                    <a href="Music.html">🎧 Music</a>
+                </div>
+            <!-- End of Side Bar -->
+
+
 <h1 style="text-align:center"> HEADING</h1>
 <p style="text-align:center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pellentesque sed orci sed mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus non felis at enim molestie luctus sed et augue. Donec mollis posuere mi, a luctus massa accumsan a.</p>
-
+    
 
 <div>
     Enter a number between 0 to 100: <input type = "number" id ="userinput" >
@@ -71,7 +79,7 @@ div{
         document.getElementById("output").innerText = "The actual number is lower than that.";
     }
 
-    else if(numberEntered==dNumber){
+    else if(numberEntered===dNumber){
         document.getElementById("output").innerText = "Congrats! You got the correct number!";
     }
 
