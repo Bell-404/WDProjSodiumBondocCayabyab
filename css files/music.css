@@ -64,6 +64,7 @@
     display: flex;
     color: rgb(36, 36, 36);
     text-align: justify;
+    line-height: 1.4;
 }
 .MusicInfoRight p{
     margin-right: 75px;
@@ -89,6 +90,7 @@
     display: flex;
     color: rgb(36, 36, 36);
     text-align: justify;
+    line-height: 1.4;
 }
 
 .MusicInfoLeft p{
