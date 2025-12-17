@@ -26,7 +26,7 @@ We would also like to establish an online space that people can simply browse fo
 <br>
      1. It's an introduction to the website <br>
      2. Has a navigation bar <br>
-     3. Code titled "Q2 PROJECT PROPOSAL  BY  BONDOC AND CAYABAYB.html" <br>
+     3. Code titled "index.html" <br>
 
 ### **B. About** 
 <br>
