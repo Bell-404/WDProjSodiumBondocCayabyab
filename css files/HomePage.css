@@ -1,8 +1,8 @@
 .WebsiteIntro {
-    text-align: center;
     margin-top: 70px;
     margin-bottom: 70px;
     font-size: 18px;
+    text-align: center;
 }
 
 .introtext {
@@ -16,7 +16,7 @@
 }
 
 .WebsiteIntro img {
-    width: 50%;
+    width: 600px;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);

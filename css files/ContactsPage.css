@@ -16,7 +16,16 @@ h2 {
 
 }
 
-.contactsInfo {
+.contactsBell {
+    display: flex;
+    color: rgb(36, 36, 36);
+    text-align: justify;
+    font-size: 18px;
+    margin-bottom: 100px;
+    margin-left: 375px;
+}
+
+.contactsAudrey {
     display: flex;
     color: rgb(36, 36, 36);
     text-align: justify;
@@ -30,9 +39,18 @@ h2 {
     
 }
 
-.contactsInfo div img {
+.contactsAudrey div img {
     margin-left: 200px;
     width: 250px;
     height: auto;
     border-radius: 50%;
+    padding: 20px;
+}
+
+.contactsBell div img {
+    margin-left: 200px;
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+    padding: 20px;
 }

@@ -9,10 +9,16 @@
 
 h2 {
     font-size: 45px;
-    margin-left: 250px;
     margin-bottom: 0px;
     margin-top: 60px;
+}
 
+.headingAudrey {
+    margin-left: 250px;
+}
+
+.HeadingBell {
+    margin-left: 375px;
 }
 
 .creatorInfo {
@@ -22,16 +28,25 @@ h2 {
 }
 
 .creatorInfo p {
-    margin: 35px 75px 50px 250px;
     font-size: 20px;
 }
 
+.AudreyInfo {
+    margin: 35px 75px 50px 0px;
+}
+
+.BellInfo {
+    margin: 35px 75px 50px 375px;
+}
+
 .creatorInfo div img {
-    margin-right: 300px;
+    margin-right: 120px;
     width: 250px;
     height: auto;
     border-radius: 30px;
+    padding: 20px;
 }
+
 
 
 
